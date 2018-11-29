@@ -2,6 +2,12 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link>|
+<<<<<<< HEAD
+=======
+      <router-link to="/challenge1">Challenge1</router-link>
+      <router-link to="/challenge2">Challenge2</router-link>
+      <router-link to="/challenge3">Challenge3</router-link>
+>>>>>>> Frontend
     </div>
     <router-view/>
   </div>

@@ -1,7 +1,11 @@
 <template>
   <div class="home">
+<<<<<<< HEAD
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld/>
+=======
+    <HelloWorld msg="Hack the future!!!"/>
+>>>>>>> Frontend
   </div>
 </template>
 

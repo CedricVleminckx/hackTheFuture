@@ -1,6 +1,10 @@
 <template>
   <div class="hello">
+<<<<<<< HEAD
     <h1>{{ info }}</h1>
+=======
+    <h1>{{ msg }}</h1>
+>>>>>>> Frontend
   </div>
 </template>
 
