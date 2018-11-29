@@ -1,9 +1,9 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
-import challenge1 from './views/challenge1.vue';
-import challenge2 from './views/challenge2.vue';
-import challenge3 from './views/challenge3.vue';
+import Challenge1 from './components/Challenge1.vue';
+import Challenge2 from './components/Challenge2.vue';
+import Challenge3 from './components/Challenge3.vue';
 
 Vue.use(Router);
 
